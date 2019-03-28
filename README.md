@@ -1,6 +1,6 @@
 # Merging-MobileNets-for-Multitask
 
-## On Merging MobileNets for Efficient Multitask Inference(EMC^2 at HPCA'19):
+#On Merging MobileNets for Efficient Multitask Inference(EMC^2 at HPCA'19):
 https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf
 
 ## Usage
