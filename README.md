@@ -1,7 +1,8 @@
 # Merging-MobileNets-for-Multitask
 
-On Merging MobileNets for Efficient Multitask Inference(EMC^2 at HPCA'19):
-https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf
+Official implementation of [On Merging MobileNets for Efficient Multitask Inference](https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf).
+
+Created by [Cheng-En Wu](https://github.com/CEWu) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), Chu-Song Chen(song@iis.sinica.edu.tw)
 
 ## Usage
 ### Training
