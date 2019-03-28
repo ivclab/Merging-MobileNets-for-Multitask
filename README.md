@@ -14,9 +14,9 @@ Check out `zipper_eval_script.sh`
 Please cite following paper if these codes help your research:
 
     @inproceedings{
-      Title   = {Unifying and Merging Well-trained Deep Neural Networks for Inference Stage},
+      Title   = {On Merging MobileNets for Efficient Multitask Inference},
       Author  = {Cheng-En Wu, Yi-Ming Chan and Chu-Song Chen}, 
-      booktitle = {The 2nd Workshop on Energy Efficient Machine Learning and Cognitive Computing for Embedded Applications},
+      booktitle = {2019 IEEE International Symposium on High-Performance Computer Architecture Workshop},
       year    = {2019}
     }
      
