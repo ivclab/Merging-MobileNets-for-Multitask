@@ -2,7 +2,7 @@
 https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf
 
 ## Usage
-# Traing
+### Traing
 Check out zipper_multiple_train.sh
-# Inference
+### Inference
 Check zipper_eval_script.sh
