@@ -4,7 +4,8 @@ Official implementation of [On Merging MobileNets for Efficient Multitask Infere
 
 Pretrained and merged checkpoints are available here: https://reurl.cc/96o3x
 
-Datasets in TFRecords are available here: https://reurl.cc/vp3vN   All rights belong to the respective publishers. The datasets are provided only to aid reproducibility.
+Datasets in TFRecords are available here: https://reurl.cc/vp3vN   
+  All rights belong to the respective publishers. The datasets are provided only to aid reproducibility.
 
 Created by [Cheng-En Wu](https://github.com/CEWu) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), Chu-Song Chen(song@iis.sinica.edu.tw)
 
