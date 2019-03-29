@@ -17,7 +17,7 @@ Place and unzipped pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ ,
 ### Mergeing
 Check out `convert_ckpt_to_npy.sh` and `merge_layers.sh`
 
-Convert pretrained checkpoints to numpy files and merge pretrained checkpoints into a unified checkpoints### Training
+Convert pretrained checkpoints to numpy files and merge pretrained checkpoints into a unified checkpoints. Training
 Check out `zipper_multiple_train.sh`
 
 Excute training in zippering process.
