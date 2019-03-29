@@ -2,13 +2,9 @@
 
 Official implementation of [On Merging MobileNets for Efficient Multitask Inference](https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf).
 
-Pretrained and merged checkpoints are available here: 
+Pretrained and merged checkpoints are available here: https://reurl.cc/96o3x
 
-https://drive.google.com/open?id=1cmiGJxUAJakmBq6jf7AAoxCBFCBPZMJb
-
-Datasets in TFRecords are available here:
-
-https://drive.google.com/open?id=1bWRZTOK434BdYStZH56rXQAuPB5wsLcQ
+Datasets in TFRecords are available here: https://reurl.cc/vp3vN
 
 All rights belong to the respective publishers. The datasets are provided only to aid reproducibility.
 
