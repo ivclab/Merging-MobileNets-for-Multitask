@@ -11,7 +11,7 @@ Datasets in TFRecords are available here: https://reurl.cc/vp3vN
   All rights belong to the respective publishers. The datasets are provided only to aid reproducibility.
   
 
-Place place and unzipped pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ , 
+Place and unzipped pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ , 
       `datasets.tar.gz` in datasets/ `hungarian_algorithm.tar.gz` in hungarian_algorithm/
 
 ### Mergeing
