@@ -9,11 +9,10 @@ Datasets in TFRecords are available here: https://reurl.cc/vp3vN
 
 Created by [Cheng-En Wu](https://github.com/CEWu) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), Chu-Song Chen(song@iis.sinica.edu.tw)
 
+## Usage
 Place place and unzipped pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ , 
       `datasets.tar.gz` in datasets/ `hungarian_algorithm.tar.gz` in hungarian_algorithm/
-      
 
-## Usage
 ### Mergeing
 Check out `convert_ckpt_to_npy.sh` and `merge_layers.sh`
 
