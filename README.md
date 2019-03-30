@@ -31,7 +31,7 @@ Evaluate the Top-1 accuracy.
 ## Citation
 Please cite following paper if these codes help your research:
 
-    @inproceedings{
+    @inproceedings{wu2019mobilenet_merging,
       Title   = {On Merging MobileNets for Efficient Multitask Inference},
       Author  = {Cheng-En Wu, Yi-Ming Chan and Chu-Song Chen}, 
       booktitle = {2019 IEEE International Symposium on High-Performance Computer Architecture Workshop},
