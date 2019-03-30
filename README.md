@@ -13,7 +13,7 @@ Pretrained and merged checkpoints are available here: https://reurl.cc/96o3x
 Datasets in TFRecords are available here: https://reurl.cc/vp3vN   
   All rights belong to the respective publishers. The datasets are provided only to aid reproducibility.
 
-Place and unzipped pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ , 
+Place and unzip pretrained checkpoints `checkpoints.tar.gz` in checkpoints/ , 
       `datasets.tar.gz` in datasets/ `hungarian_algorithm.tar.gz` in hungarian_algorithm/
 ### Mergeing
 Check out `convert_ckpt_to_npy.sh` and `merge_layers.sh`
