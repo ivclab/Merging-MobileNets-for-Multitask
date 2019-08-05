@@ -24,7 +24,7 @@ for i in $(seq 1 13); do
   python mutiple_task_train.py \
     --dataset_dir_A=./datasets/cubs_cropped \
     --dataset_dir_B=./datasets/flowers_102 \
-    --train_dir=./logs/multiple_cubs_cropped_flowers_102/$i \
+    --train_dir=./checkpoints/multiple_cubs_cropped_flowers_102/$i \
     --dataset_name_A=cubs_cropped \
     --dataset_name_B=flowers_102 \
     --dataset_split_name_A=train \

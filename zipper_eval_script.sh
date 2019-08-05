@@ -24,7 +24,7 @@ for i in $(seq 2 13); do
   python mobilenet_v1_eval.py \
     --dataset_name=cubs_cropped \
     --dataset_split_name=test \
-    --checkpoint_path=./logs/multiple_cubs_cropped_flowers_102/$i \
+    --checkpoint_path=./checkpoints/multiple_cubs_cropped_flowers_102/$i \
     --dataset_dir=./datasets/cubs_cropped \
     --model_scope=MobilenetV1_M \
     --conv2d_0_scope=Conv2d_0_cubs_cropped \
@@ -36,7 +36,7 @@ for i in $(seq 2 13); do
   python mobilenet_v1_eval.py \
     --dataset_name=flowers_102 \
     --dataset_split_name=test \
-    --checkpoint_path=./logs/multiple_cubs_cropped_flowers_102/$i \
+    --checkpoint_path=./checkpoints/multiple_cubs_cropped_flowers_102/$i \
     --dataset_dir=./datasets/flowers_102 \
     --model_scope=MobilenetV1_M \
     --conv2d_0_scope=Conv2d_0_flowers_102 \
