@@ -2,8 +2,9 @@
 
 Official implementation of [On Merging MobileNets for Efficient Multitask Inference](https://docs.wixstatic.com/ugd/42e7ad_1e56b18cd2f04c198550ceafee3b7685.pdf).
 
-
 Created by [Cheng-En Wu](https://github.com/CEWu) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), Chu-Song Chen(song@iis.sinica.edu.tw)
+
+The code is released for academic research use only. For commercial use, please contact [Chu-Song Chen](https://www.iis.sinica.edu.tw/pages/song/)(song@iis.sinica.edu.tw).
 
 ## Usage
 
@@ -40,5 +41,5 @@ Please cite following paper if these codes help your research:
      
     
 ## Contact
-Please feel free to leave suggestions or comments to [Cheng-En Wu](https://github.com/CEWu) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), Chu-Song Chen(song@iis.sinica.edu.tw)
+Please feel free to leave suggestions or comments to [Cheng-En Wu](https://github.com/CEWu)(chengen@iis.sinica.edu.tw) , Yi-Ming Chan(yiming@iis.sinica.edu.tw), [Chu-Song Chen](https://www.iis.sinica.edu.tw/pages/song/)(song@iis.sinica.edu.tw)
 
